@@ -4,7 +4,7 @@ import { Component } from '@angular/core';
   selector: 'app-root',
   styleUrls: ['app.component.scss'],
   template: `
-    <app-root></app-root>
+    <user-form></user-form>
   `
 })
 export class AppComponent {
